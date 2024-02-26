@@ -1,0 +1,35 @@
+ button {
+    background: none;
+    color: #36bea1;
+    font-family: inherit;
+    font-size: 25px;
+    cursor: pointer;
+    outline: none;
+    padding: 10px 30px;
+    border: 2px solid #36bea1;
+    border-radius: 5px;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+}
+ img{
+    
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    transform: translate(-4.45467px, 13.6562px), rotate(-17.0592deg);
+ }
+
+ .cards{
+   
+    color: azure;
+    font-size: 40px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-family: Nunito,sans-serif;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 7% auto;
+ }
+
+
+
